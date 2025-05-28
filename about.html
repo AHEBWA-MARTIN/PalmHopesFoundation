@@ -1,0 +1,606 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- The above 4 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+
+    <!-- Title -->
+    <title>Palm Hopes Foundation| A bout Us</title>
+
+    <!-- Favicon -->
+    <link rel="icon" href="img/log.jpg">
+
+    <!-- Core Stylesheet -->
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+    <!-- ##### Preloader ##### -->
+    <div class="preloader d-flex align-items-center justify-content-center">
+        <!-- Line -->
+        <div class="line-preloader"></div>
+    </div>
+
+    <!-- ##### Header Area Start ##### -->
+    <header class="header-area">
+
+        <!-- ***** Top Header Area ***** -->
+        <div class="top-header">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="top-header-content d-flex flex-wrap align-items-center justify-content-between">
+                            <!-- Top Header Meta -->
+                            <div class="top-header-meta d-flex flex-wrap">
+                                <a href="#" class="open" data-toggle="tooltip" data-placement="bottom" title="10 Am to 6 PM"><i class="fa fa-clock-o" aria-hidden="true"></i> <span>Opening Hours - 8 Am to 6 PM</span></a>
+                                <!-- Social Info -->
+                                <div class="top-social-info">
+                                    <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                                    <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                                    <a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
+                                </div>
+                            </div>
+                            <!-- Top Header Meta -->
+                            <div class="top-header-meta">
+                                <a href="mailto:info.deercreative@gmail.com" class="email-address"><i class="fa fa-envelope" aria-hidden="true"></i> <span>info.palmhopesfoundation@gmail.com</span></a>
+                                <a href="#" class="phone"><i class="fa fa-phone" aria-hidden="true"></i> <span>+256 789 610 816</span></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- ***** Top Header Area ***** -->
+
+        <!-- ***** Navbar Area ***** -->
+        <div class="crose-main-menu">
+            <div class="classy-nav-container breakpoint-off">
+                <div class="container">
+                    <!-- Menu -->
+                    <nav class="classy-navbar justify-content-between" id="croseNav">
+
+                        <!-- Nav brand -->
+                        <a href="index.php" class="nav-brand"><img src="img/logo.png" alt=""></a>
+
+                        <!-- Navbar Toggler -->
+                        <div class="classy-navbar-toggler">
+                            <span class="navbarToggler"><span></span><span></span><span></span></span>
+                        </div>
+
+                        <!-- Menu -->
+                        <div class="classy-menu">
+
+                            <!-- close btn -->
+                            <div class="classycloseIcon">
+                                <div class="cross-wrap"><span class="top"></span><span class="bottom"></span></div>
+                            </div>
+
+                            <!-- Nav Start -->
+                            <div class="classynav">
+                                <ul>
+                                    <li><a href="index.php">Home</a></li>
+									 <li><a href="#">About</a>
+                                        <ul class="dropdown">
+                                            <li><a href="history.php">Our History</a></li>
+                                            <li><a href="team.php">Our Team</a></li>
+                                            <li><a href="impact.php">Our Impact</a></li>
+                                            <li><a href="careers.php">Our Careers</a></li>
+                                            
+                                        </ul>
+                                    </li>
+									 
+                                    
+                                   <li><a href="#">Programs</a>
+                                        <ul class="dropdown">
+                                            <li><a href="education.php">Education</a></li>
+                                            <li><a href="palmskills.php">Skills Training</a></li>
+                                            <li><a href="sportlight.php">Games and Sports</a></li>
+                                            <li><a href="campaigns.php">campaigns</a></li>
+                                            
+                                        </ul>
+                                    </li>
+                                    <li><a href="news.php">News</a></li>
+                                    <li><a href="gallery.php">Gallery</a></li>
+                                    
+                                    <li><a href="contact.php">Contact</a></li>
+									<li><a href="sponsor.php" class="btn crose-btn header-btn">BE OUR SPONSOR</a></li>
+									<li><a href="donation.php" class="btn crose-btn header-btn">Donate A HOPE</a></li>
+								</ul>
+
+                                <!-- Donate Button -->
+                                
+
+                            </div>
+                            <!-- Nav End -->
+                        </div>
+                    </nav>
+                </div>
+            </div>
+
+            <!-- ***** Search Form Area ***** -->
+            <div class="search-form-area">
+                <div class="container">
+                    <div class="row align-items-center">
+                        <div class="col-12">
+                            <div class="searchForm">
+                                <form action="#" method="post">
+                                    <input type="search" name="search" id="search" placeholder="Enter keywords &amp; hit enter...">
+                                    <button type="submit" class="d-none"></button>
+                                </form>
+                                <div class="close-icon" id="searchCloseIcon"><i class="fa fa-close" aria-hidden="true"></i></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- ***** Navbar Area ***** -->
+    </header>
+    <!-- ##### Header Area End ##### -->
+
+    <!-- ##### Breadcrumb Area Start ##### -->
+    <div class="breadcrumb-area">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <nav aria-label="breadcrumb">
+                        <ol class="breadcrumb">
+                            <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+                            <li class="breadcrumb-item active" aria-current="page">Our History</li>
+                        </ol>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- ##### Breadcrumb Area End ##### -->
+
+    <!-- ##### About Us Area Start ##### -->
+    <div class="about-us-area about-page section-padding-100">
+        <div class="container">
+            <div class="row align-items-center justify-content-between">
+                <div class="col-12 col-lg-5">
+                    <div class="about-content">
+                        <h2>Welcome To Palm Hopes Foundation</h2>
+                         <p style ="font-size: 16.5px; color: black; text-align:justify;">We believe everyone deserves the best chance in life. that is why we support the most vulnerable children and their families, working with them to reduce poverty and meet their basic needs.</p>
+                        <p style ="font-size: 16.5px; color: black; text-align:justify;">We create opportunities for all people but especially orphans and widows to encounter the love of Jesus in every activity of our ministry.</p>
+						<p style ="font-size: 16.5px; color: black; text-align:justify;">We support the most vulnerable children through education, helping them get the most from their time at school and providing a foundation for a productive and happy future.</p>
+						
+						
+                    </div>
+                </div>
+                <div class="col-12 col-lg-6">
+                    <div class="about-thumbnail">
+                        <img src="img/palm/staff.jpg" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- ##### About Us Area End ##### -->
+
+    <!-- ##### Call To Action Area Start ##### -->
+    <section class="call-to-action-area section-padding-100 bg-img bg-overlay" style="background-image: url(img/palm/program.jpg)">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="call-to-action-content text-center">
+                      
+                        <h2>Palm Hopes Foundation is abusy and vibrant place to work with and there's always room for voluteers to join us and help out. Just bring your time and energy to make a difference and experience life in uganda.</h2>
+                        <a href="volunteer.php" class="btn crose-btn btn-2">Become A Volunteer</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- ##### Call To Action Area End ##### -->
+
+    <!-- ##### Why Choose Us Area Start ##### -->
+    <div class="why-choose-us bg-gray section-padding-100-0">
+        <div class="container">
+            
+
+            <div class="row justify-content-center">
+                <!-- Single Why Choose Area -->
+                <div class="col-12 col-sm-6 col-lg-4">
+                    <div class="single-why-choose-us mb-100">
+                        <img src="img/core-img/why1.png" alt="">
+                        <h4>Our Vision</h4>
+                        <p style ="font-size: 16.5px; color: black; text-align:justify;">No child under 4 in uganda, or their family members, lack for basic nutrition, sanitation, healthcare or education.</p>
+                    </div>
+                </div>
+                <!-- Single Why Choose Area -->
+                <div class="col-12 col-sm-6 col-lg-4">
+                    <div class="single-why-choose-us mb-100">
+                        <img src="img/core-img/why2.png" alt="">
+                        <h4>Our Mission</h4>
+                        <p style ="font-size: 16.5px; color: black; text-align:justify;">To elleviate extreme poverty and facilitate lasting change in the lives of the most vulnerable children and families living in urban slums in uganda.</p>
+                    </div>
+                </div>
+                <!-- Single Why Choose Area -->
+                <div class="col-12 col-sm-6 col-lg-4">
+                    <div class="single-why-choose-us mb-100">
+                        <img src="img/core-img/why3.png" alt="">
+                        <h4>What We Do?</h4>
+                        <p style ="font-size: 16.5px; color: black; text-align:justify;">Education, Health, Nutrition and Social Care Alternative education and Livelihoods.</p>
+                    </div>
+                </div>
+				
+				<!-- Single Why Choose Area -->
+                <div class="col-12 col-sm-6 col-lg-4">
+                    <div class="single-why-choose-us mb-100">
+                        <img src="img/core-img/why1.png" alt="">
+                        <h4>Our Core Values</h4>
+                       
+					   <p style ="font-size: 16.5px; color: black; text-align:left;">1. Community-Focused</p>
+					   <p style ="font-size: 16.5px; color: black; text-align:left;">2. Community-Driven</p>
+					   <p style ="font-size: 16.5px; color: black; text-align:left;">3. Accountability</p>
+					   <p style ="font-size: 16.5px; color: black; text-align:left;">4. Inclunsiveness and Diversity</p>
+					   <p style ="font-size: 16.5px; color: black; text-align:left;">5. Respect</p>
+					   <p style ="font-size: 16.5px; color: black; text-align:left;">6. Child Centered</p>
+					  
+                    </div>
+                </div><!-- Single Why Choose Area -->
+                <div class="col-12 col-sm-6 col-lg-4">
+                    <div class="single-why-choose-us mb-100">
+                        <img src="img/core-img/why2.png" alt="">
+                        <h4>Our Principles</h4>
+                        <p style ="font-size: 16.5px; color: black; text-align:left;">1. Empower Individuals</p>
+					   <p style ="font-size: 16.5px; color: black; text-align:left;">2. Innovate Sustainable Solutions</p>
+					   <p style ="font-size: 16.5px; color: black; text-align:left;">3. Address Global Challenges</p>
+					   <p style ="font-size: 16.5px; color: black; text-align:left;">4. Forge Partnerships</p>
+					   <p style ="font-size: 16.5px; color: black; text-align:left;">5. Seek Local Knowledge</p>
+					   <p style ="font-size: 16.5px; color: black; text-align:left;">6. Defend Human Diginity</p>
+					  </div>
+                </div><!-- Single Why Choose Area -->
+                <div class="col-12 col-sm-6 col-lg-4">
+                    <div class="single-why-choose-us mb-100">
+                        <img src="img/core-img/why3.png" alt="">
+                        <h4>Our Story</h4>
+                        <p style ="font-size: 16.5px; color: black; text-align:justify;">As a foundation, we started in 2019 and were founded by Ahebwa Martin, who came out with this idea. In 2019 we had 6 children but now we have about 113 children and their families through our different programms. in all of our work, we continue to maintain the personal community involvement that has become our best priolity. We pride ourselves on having a close working relationship with our beneficiaries and for our hands-on approach to our work.</p>
+                    </div>
+                </div>
+            </div>
+			
+        </div>
+		
+		
+    </div>
+    <!-- ##### Why Choose Us Area End ##### -->
+
+    <!-- ##### Team Members Area Start ##### -->
+    <div class="team-members-area section-padding-100-0">
+        <div class="container">
+            <div class="row">
+                <!-- Section Heading -->
+                <div class="col-12">
+                    <div class="section-heading">
+                        <h2>Our Staff members</h2>
+                        
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+			
+			
+			                <!-- Team Members Area -->
+                <div class="col-12 col-sm-6 col-lg-3">
+                    <div class="single-team-members text-center mb-100">
+                        <div class="team-thumb" style="background-image: url(img/palm/director.png);">
+                            <div class="team-social-info">
+                                <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                                <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                                <a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+                            </br>
+							
+							
+<script type="text/javascript" src="jq.js"></script>
+<script type="text/javascript" src="bootstrap.min.js"></script>
+ </br>
+    <a href="#"  title="<center>AHEBWA MARTIN <br>CEO and FOUNDER</br></center>" class="btn crose-btn"  data-toggle="popover" data-trigger="focus"  data-content=" Holds a Diploma of Science in Information Technology and is passionate about problem solving and creative thinking geared to increase the spread of Gospel and to improve household incomes of communities in rural areas of Uganda among the youth and adults. Iam a passionate innovator who is self motivated towards achieving set goals. He is also open to learn from new experiences and prevailing events.  <b><br>Tel: 0789610816</br> Email:ahebwamartin80@palmhopes.com</b>">Details</a>
+
+<!---<script>
+$(document).ready(function(){
+    $('[data-toggle="popover"]').popover(); 
+	
+});
+</script>--->
+<script>
+$(function(){
+    $('[data-toggle=popover]').popover({
+      trigger: 'focus',
+      html: true,
+      title: 'Toolbox'
+	  
+}) 
+});
+</script>
+								<!---<a href="#" class="btn acrose-btn" data-animation="fadeInUp" data-delay="500ms">Details</a>--->
+							</div>
+                        </div>
+                        <h6>Ahebwa Martin</h6>
+                        <span>Director / CEO</span>
+                    </div>
+                </div>
+			
+			
+                <!-- Team Members Area -->
+                <div class="col-12 col-sm-6 col-lg-3">
+                    <div class="single-team-members text-center mb-100">
+                        <div class="team-thumb" style="background-image: url(img/palm/shallon.png);">
+                            <div class="team-social-info">
+                                <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                                <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                                <a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+                            </br></br>
+								<a href="#"  title="<center>KEBIRUGYI NAKATO SHALLON <br>ASS. DIRECTOR </br></center>"  class="btn crose-btn" data-toggle="popover" data-trigger="focus"  data-content="Shallon has a background in sustainable development, having worked with private and non-profit organizations in uganda. she has worked in collaboration with low-income and vulnerable communities in the areas of education, child development, sanitation, food security and microfinance. Using such experience, she is passionate about a green environment, fitness, and exploring new cultures, food, and music. <b><br>Tel:0780249910 / 0753439787 </br> Email:shallon@palmhopes.com</b>">Details</a>
+							
+							</div>
+                        </div>
+                        <h6>Kebirugyi Nakato Shallon</h6>
+                        <span>Ass. Director</span>
+                    </div>
+                </div>
+
+                 <!-- Team Members Area -->
+                <div class="col-12 col-sm-6 col-lg-3">
+                    <div class="single-team-members text-center mb-100">
+                        <div class="team-thumb" style="background-image: url(img/palm/provia.png);">
+                            <div class="team-social-info">
+                                <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                                <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                                <a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+                            </br></br>
+								<a href="#"  title="<center>KORUNGYEDO PROVIA <br>FINANCE OFFICER</br></center>" class="btn crose-btn" data-toggle="popover" data-trigger="focus"  data-content="Provia is a creative, self-driven youth and motivator who was raised in sheema and is the second born in a family of 8. she holds a Bachelor's of Arts in Education with a focus on public relations from Uganda Christian University in mukono. She yearned to become a part of Palm Hopes since she believes in an ideal society where growth and development in the remote areas of the country is improving and changing.<b><br>Tel:0774667198 / 0758577221</br> Email:provia@palmhopes.com</b>">Details</a>
+							
+							</div>
+                        </div>
+                        <h6>Korugyedo Provia</h6>
+                        <span>Finance Director</span>
+                    </div>
+                </div>
+
+               <!-- Team Members Area -->
+                <div class="col-12 col-sm-6 col-lg-3">
+                    <div class="single-team-members text-center mb-100">
+                        <div class="team-thumb" style="background-image: url(img/palm/zariika.png);">
+                            <div class="team-social-info">
+                                <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                                <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                                <a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+                            </br></br>
+								<a href="#"  title="<center>NAMPEBWA ZARIIKA <br>SECRETARY OFFICER</br></center>"  class="btn crose-btn" data-toggle="popover" data-trigger="focus"  data-content="Nampebwa is a self motivated person who was born and raised in Kihunda Nyamiko Village in a family of 7 children. she knows the challenges Palm Hopes students face, as to attend primary school as agirl she had to walk 4kms every day to reach school. she earned a certificate in early childhood development from Talemwa College. After college, she worked with a memorial nursary school. the skills she earned in this job are now helping her in creating relationship with Palm Hopes foundation. <b><br>Tel:0786324050 / 0704361474</br> Email:zariika@palmhopes.com</b>">Details</a>
+							
+							</div>
+                        </div>
+                        <h6>Napebwa Zariika</h6>
+                        <span>Programs Officer</span>
+                    </div>
+                </div>
+
+				  <!-- Team Members Area -->
+                <div class="col-12 col-sm-6 col-lg-3">
+                    <div class="single-team-members text-center mb-100">
+                        <div class="team-thumb" style="background-image: url(img/palm/enid.png);">
+                            <div class="team-social-info">
+                                <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                                <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                                <a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+                            </br></br>
+								<a href="#"  title="<center>KATUSHABE ENID <br>OPERATIONS OFFICER</br></center>"  class="btn crose-btn" data-toggle="popover" data-trigger="focus"  data-content="Having a heart for imporverished children, mothers,and youth, Enid is committed to providing them with opportunities to create sustainable life long opportunities. with 47 years of experience in different parts of Uganda, She witnessed the difference that education, mother's empowerment, economic opportunity, health and advocancy makes for citizens in developing countries when working in partnership using approprient sustainable approaches. these experiences have strengthened her desire and resolve to empower communities to fulfill their potential and break the cycle of poverty. <b><br>Tel:0784075529 / 0703698857</br> Email:enid@palmhopes.com</b>">Details</a>
+							
+							</div>
+                        </div>
+                        <h6>Katushabe Enid</h6>
+                        <span>Operations Officer</span>
+                    </div>
+                </div>
+
+                 <!-- Team Members Area -->
+                <div class="col-12 col-sm-6 col-lg-3">
+                    <div class="single-team-members text-center mb-100">
+                        <div class="team-thumb" style="background-image: url(img/palm/yohana.png);">
+                            <div class="team-social-info">
+                                <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                                <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                                <a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+                            </br></br>
+								<a href="#"  title="<center>TURINAWE YOHANA <br>MOBOLISING OFFICER</br></center>"  class="btn crose-btn" data-toggle="popover" data-trigger="focus"  data-content="Yohana finished school at aprimary level, joined Kanzo SSS for secondary education, but dropped out to become a peasant farmer. he went on to work for Bweyagamba milk producers as alaborer before joining Palm Hopes staff. he spend most of his time coordinating and mobolising for the many Palm Hopes programmes, paying school fees and negotiating pertnerships between Palm Hopes parents. Yohana adds alot of experience and leadership to the existing team. <b><br>Tel:0783416198 / 0754149293</br> Email:yohana@palmhopes.com</b>">Details</a>
+							
+							</div>
+                        </div>
+                        <h6>Turinawe Yohana</h6>
+                        <span>Mobolizing Officer</span>
+                    </div>
+                </div>
+				
+				  <!-- Team Members Area -->
+                <div class="col-12 col-sm-6 col-lg-3">
+                    <div class="single-team-members text-center mb-100">
+                        <div class="team-thumb" style="background-image: url(img/palm/rose.png);">
+                            <div class="team-social-info">
+                                <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                                <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                                <a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+                            </br></br>
+								<a href="#"  title="<center>MWIINE ROSE <br>RELOGIOUS OFFICER</br></center>"  class="btn crose-btn" data-toggle="popover" data-trigger="focus"  data-content="Rose was born in Kashari village Mbarara District, and she is currently living in karuhama village in sheema district. her inspiration to become a pastor started in primary 7 when she got into a religious class. Her parents became ecxited and encouraged her to become a pastor, and they told her to become a pastor, and they told her they would do whatever they could do help. she started experiencing compassion whenever she saw suffering mothers in the village and she wished to take care of them. when she succeded in helping them, she could not teach all of them. she really feels great when a life is being saved. her belief is that a person can have money, but if she lacks awareness she will still suffer. therefore, Rose's mission is to create awareness amongest the community members. <b><br>Tel:0787760167</br> Email:rose@palmhopes.com</b>">Details</a>
+							
+							</div>
+                        </div>
+                        <h6>Mwiine Rose</h6>
+                        <span>Religius Officer</span>
+                    </div>
+                </div>
+				
+				  <!-- Team Members Area -->
+                <div class="col-12 col-sm-6 col-lg-3">
+                    <div class="single-team-members text-center mb-100">
+                        <div class="team-thumb" style="background-image: url(img/palm/coach.png);">
+                            <div class="team-social-info">
+                                <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                                <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                                <a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+                            </br></br>
+								<a href="#"  title="<center>TUMUSIIME PETER MUDIGINDO<br>ACADEMY COACH OFFICER</br></center>"  class="btn crose-btn" data-toggle="popover" data-trigger="focus"  data-content="Peter is a self-motivated man who is always willing to take on new challeges. he comes from a family of 9 kids and is the third youngest. having performed well in secondary school, Peter attedend one of the Palm Hopes Football workshops and now coaches our kids at Palm Hopes. he is very excited to share his football skills with other people in the community. <b><br>Tel:0784223604 / 0758369999</br> Email:peter@palmhopes.com</b>">Details</a>
+							
+							</div>
+                        </div>
+                        <h6>Tumusiime Peter Mudigindo</h6>
+                        <span>Academy Coach</span>
+                    </div>
+                </div>
+				
+				
+				
+            </div>
+        </div>
+    </div>
+    <!-- ##### Team Members Area End ##### -->
+
+   <!-- ##### Subscribe Area Start ##### -->
+    <section class="subscribe-area">
+        <div class="container">
+            <div class="row align-items-center">
+                <!-- Subscribe Text -->
+                <div class="col-12 col-lg-6">
+                    <div class="subscribe-text">
+                        <h3>Subscribe To Our Monthly Newsletter</h3>
+                        <h6>Subcribe Us And Tell Us About Your Story</h6>
+                    </div>
+                </div>
+                <!-- Subscribe Form -->
+                <div class="col-12 col-lg-6">
+                    <div class="subscribe-form text-right">
+                        <form action="#">
+                            <input type="email" name="subscribe-email" id="subscribeEmail" placeholder="Your Email" required>
+                            <button type="submit" class="btn crose-btn">subscribe</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- ##### Subscribe Area End ##### -->
+
+    <!-- ##### Footer Area Start ##### -->
+    <footer class="footer-area">
+        <!-- Main Footer Area -->
+        <div class="main-footer-area">
+            <div class="container">
+                <div class="row">
+
+                    <!-- Single Footer Widget -->
+                    <div class="col-12 col-sm-6 col-lg-3">
+                        <div class="single-footer-widget mb-70">
+                            <h4 style ="color:white;">ABOUT PALM HOPES FOUNDATION</h4>
+                            <p style ="font-size: 16px; text-align:justify;">We believe everyone deserves the best chance in life. that is why we support the most vulnerable children and their families, working with them to reduce poverty and meet their basic needs.</p>
+                        </div>
+                    </div>
+
+                    <!-- Single Footer Widget -->
+                    <div class="col-12 col-sm-6 col-lg-3">
+                        <div class="single-footer-widget mb-70">
+                            <h5 class="widget-title">Quick Link</h5>
+                            <nav class="footer-menu">
+                                <ul>
+                                    <li><a href="index.php"><i class="fa fa-angle-double-right" aria-hidden="true"></i> Home</a></li>
+                                    <li><a href="volunteer.php"><i class="fa fa-angle-double-right" aria-hidden="true"></i> Volunteer</a></li>
+                                    <li><a href="about.php"><i class="fa fa-angle-double-right" aria-hidden="true"></i> About Us</a></li>
+                                    <li><a href="gallery.php"><i class="fa fa-angle-double-right" aria-hidden="true"></i> Gallery</a></li>
+                                    <li><a href="activities.php"><i class="fa fa-angle-double-right" aria-hidden="true"></i> Activities</a></li>
+                                    <li><a href="donation.php"><i class="fa fa-angle-double-right" aria-hidden="true"></i> Donate</a></li>
+                                    <li><a href="palmskills.php"><i class="fa fa-angle-double-right" aria-hidden="true"></i> Hands-on Skills</a></li>
+                                    <li><a href="contact.php"><i class="fa fa-angle-double-right" aria-hidden="true"></i> Contact Us</a></li>
+                                </ul>
+                            </nav>
+                        </div>
+                    </div>
+
+                    <!-- Single Footer Widget -->
+                    <div class="col-12 col-sm-6 col-lg-3">
+                        <div class="single-footer-widget mb-70">
+                            <h5 class="widget-title">News Latest</h5>
+
+                            <!-- Single Latest News -->
+                            <div class="single-latest-news">
+                                <a href="#">Time to fudrise for our brother Peter!</a>
+                                <p><i class="fa fa-calendar" aria-hidden="true"></i> October 11, 2021</p>
+                            </div>
+
+                            <!-- Single Latest News -->
+                            <div class="single-latest-news">
+                                <a href="#">The second wave of the covid-19 pandamic has hit uganda</a>
+                                <p><i class="fa fa-calendar" aria-hidden="true"></i> November 17, 2021</p>
+                            </div>
+
+                        </div>
+                    </div>
+
+                    <!-- Single Footer Widget -->
+                    <div class="col-12 col-sm-6 col-lg-3">
+                        <div class="single-footer-widget mb-70">
+                            <h5 class="widget-title">Contact Us</h5>
+
+                            <div class="contact-information">
+                                <p><i class="fa fa-map-marker" aria-hidden="true"></i> kabwohe, sheema, Uganda</p>
+                                <a href="callto:001-1234-88888"><i class="fa fa-phone" aria-hidden="true"></i> +256-789-610-816</a>
+                                <a href="mailto:info.deercreative@gmail.com"><i class="fa fa-envelope" aria-hidden="true"></i> info.palmhopesfoundation@gmail.com</a>
+                                <p><i class="fa fa-clock-o" aria-hidden="true"></i> Mon - Fri: 08.00am - 18.00pm</p>
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+          <!-- Copwrite Area -->
+        <div class="copywrite-area">
+            <div class="container h-100">
+                <div class="row h-100 align-items-center flex-wrap">
+                    <!-- Copywrite Text -->
+                    <div class="col-12 col-md-8">
+                        <div class="copywrite-text">
+                            <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+<small>&copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Palm Hopes Foundation Designed by <a href="https://ahebwamartin80@gmail" target="_blank">AHEBWA MARTIN +256 789 610 816 / 0707155669</a></small>
+<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+</p>
+                        </div>
+                    </div>
+
+                    <!-- Footer Social Icon -->
+                    <div class="col-12 col-md-4">
+                        <div class="footer-social-icon">
+                            <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                            <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                            <a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
+                            <a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- ##### Footer Area End ##### -->
+
+    <!-- ##### All Javascript Script ##### -->
+    <!-- jQuery-2.2.4 js -->
+    <script src="js/jquery/jquery-2.2.4.min.js"></script>
+    <!-- Popper js -->
+    <script src="js/bootstrap/popper.min.js"></script>
+    <!-- Bootstrap js -->
+    <script src="js/bootstrap/bootstrap.min.js"></script>
+    <!-- All Plugins js -->
+    <script src="js/plugins/plugins.js"></script>
+    <!-- Active js -->
+    <script src="js/active.js"></script>
+</body>
+
+</html>
